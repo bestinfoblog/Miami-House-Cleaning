@@ -1,34 +1,3 @@
-
- 
- <!DOCTYPE html>
-<html>
-<title>10 Ways to Keep Your Apartment Tidy</title>
-<meta property="og:title" content="Miami Cleaning Services" />
-<meta name="keywords" content="Miami Cleaning Services" />
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="icon" href="https://icons.iconarchive.com/icons/aha-soft/free-global-security/16/Global-Network-icon.png" type="image/gif" sizes="16x16">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {font-family: "Lato", sans-serif}
-.mySlides {display: none}
-</style>
-<body>
-
-
-<!-- Page content -->
-<div class="w3-content" style="max-width:2000px;margin-top:46px">
-  
-  <!-- The Band Section -->
-  <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:900px" id="band">
-    <h1 class="w3-wide"></h1>
-    <p class="w3-opacity"><i></a></i></p> 
-    <p class="w3-justify">
-	
-
-
-
 <p><a href="https://cleanzen.com/miami"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/id/1194917917/photo/beautiful-cleaning-woman-with-her-team-at-an-office-holding-a-bucket-with-cleaning-products.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=KNJ-N7MZwckh-5OROps-B21q6vme0u6dSm8Akplo040=" alt="" width="612" height="408" /></a></p>
 <p style="text-align: justify;">Also smaller residences and houses can be hard to maintain clean, clean, and also organized. If you've had trouble remaining on top of the mess in your home, right here are a couple of convenient ideas as well as methods you can utilize around the area to help.</p>
 <p style="text-align: justify;"><br />1. Declutter, Declutter, Declutter<br />Whatever the state of your living space is, always remember to declutter on schedule. Normal decluttering enables much easier cleansing and also maintenance around the area. Once or twice a year you can go around the location and open up all your cabinets, cabinets, and also storage rooms and find points that do not belong, are damaged or are tarnished.</p>
